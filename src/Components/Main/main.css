@@ -1,0 +1,9 @@
+.main{
+    display: flex;
+    justify-content: center;
+}
+.text{
+    justify-content: center;
+    font-size: 30px;
+    
+}

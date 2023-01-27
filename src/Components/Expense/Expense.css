@@ -1,0 +1,9 @@
+.All_expense{
+    display: flex;
+    justify-content: space-evenly;
+}
+.pic_2{
+ display: flex  ;
+ justify-content: center;
+ margin-left:5% ;
+}
